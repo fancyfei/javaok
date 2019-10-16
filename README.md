@@ -2,6 +2,8 @@
 
 # 持续更新中，赶紧star吧（一天一篇精选，365足以）
 
+为了方便大家阅读，特制作Linux相关的PDF。[最有用Linux系列-百页精华.pdf](最有用Linux系列-百页精华.pdf)
+
 再补充一篇框架维度的；[学完这100多技术，能当架构师么？（非广告）](https://mp.weixin.qq.com/s/13JM6eMUJxnpG3zVuLaKFg)
 
 你可能有所感悟。零散的资料读了很多，但是很难有提升。到处是干货，但是并没什么用，简单来说就是缺乏系统化。另外，噪音太多，雷同的框架一大把，我不至于全都要去学了吧。
@@ -83,12 +85,16 @@ HTTP是使用最广泛的协议，通常都会要求对其有较深入的了解�
 
 爬虫是网络开发中另外一个极具魅力的点，但建议使用python而不是java去做。
 
-![](media/15628321834561/15631553808377.jpg)
+![计算机网络太难？了解这一篇就够了](media/15628321834561/15631553808377.jpg)
 
 ### 书籍
 
 《HTTP权威指南》  
 《TCP/IP详解 卷一》  
+
+### 文章
+
+[(计算机网络太难？了解这一篇就够了)](https://juejin.im/post/5d896cccf265da03bd055c87)
 
 ## 操作系统 Linux
 
@@ -111,7 +117,8 @@ HTTP是使用最广泛的协议，通常都会要求对其有较深入的了解�
 
 ### 相关文章
 
-[《Linux上，最常用的一批命令解析（10年精选）》](https://mp.weixin.qq.com/s/9RbTGQ4k4s92mrSf2xJ5TQ)
+[《Linux上，最常用的一批命令解析（10年精选）》](https://mp.weixin.qq.com/s/9RbTGQ4k4s92mrSf2xJ5TQ)  
+[《深入学习绝对不可错过的站点》](http://www.brendangregg.com/overview.html)
 
 # Java基础
 
@@ -253,8 +260,10 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 
 ### 相关文章
 
+[《分布式消息系统，设计要点。画龙画虎难画骨》](https://mp.weixin.qq.com/s/5sjiKmXlDv6gM3IcekEJew)  
 [《Kafka基础知识索引》](https://mp.weixin.qq.com/s/MKiFehA4EHTv1o23A28Jyg)  
-[《Kafka教程集合 by半兽人》](https://www.orchome.com/kafka/index)
+[《Kafka教程集合 by半兽人》](https://www.orchome.com/kafka/index)  
+[《【Kafka】基本概念详解，百人培训分享 （小姐姐味道）》(视频)](https://www.bilibili.com/video/av69053201)
 
 ## 分库分表 ShardingJDBC
 
@@ -294,6 +303,7 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 
 [这次要是讲不明白Spring Cloud核心组件，那我就白编这故事了](https://mp.weixin.qq.com/s/hjYAddJEqgg3ZWTJnPTD9g)  
 [微服务不是全部，只是特定领域的子集](https://mp.weixin.qq.com/s/8DMwjNYt3WJWXmr2HPn8_w)  
+[设计一个分布式RPC框架](http://www.buildupchao.cn/arch/2019/02/01/design-a-distributed-RPC-structure.html)
 
 ## 分布式
 
@@ -306,7 +316,9 @@ Kafka的速度非常快，根据ACK的级别配置，可靠性会增加，但速
 
 ### 相关文章
 
-[《也浅谈下分布式存储要点》](https://mp.weixin.qq.com/s/T-Sc0YPrPZNFHtoM4JhbZg)
+[《也浅谈下分布式存储要点》](https://mp.weixin.qq.com/s/T-Sc0YPrPZNFHtoM4JhbZg)  
+[【秒杀】一、系统设计要点，从卖病鹅说起](https://mp.weixin.qq.com/s/ewT6iwFC5kCK-rB3WR1vzw)  
+[《高并发之限流，到底限的什么鬼 （精品长文）》](https://mp.weixin.qq.com/s/UEy272RDQ2-Ygxn3W4x7IA)详细的介绍了guava组件的使用  
 
 ### 书籍
 
